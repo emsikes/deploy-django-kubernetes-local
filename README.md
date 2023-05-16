@@ -1,0 +1,1 @@
+# deploy-django-kubernetes-local
